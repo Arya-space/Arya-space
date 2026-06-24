@@ -63,10 +63,3 @@ I recently graduated from **NYU with an M.S. in Data Science** and love working 
 | [MoodBite](https://arya-space.github.io/Arya-space-portfolio/moodbite.html) | Mood-based recipe recommendation — MySQL, ML scoring, USDA + Spoonacular | Python, MySQL, ML |
 | [Voice Service Agent](https://arya-space.github.io/Arya-space-portfolio/voice-service-agent.html) | Local voice AI: Faster-Whisper + Llama 3 + TTS, fully offline | Ollama, Whisper, Python |
 
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arya-space&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=7c3aed" height="150"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arya-space&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=7c3aed" height="150"/>
-</div>
